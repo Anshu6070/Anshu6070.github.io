@@ -3,9 +3,9 @@
 #  Replace every value marked with [PLACEHOLDER] with yours.
 # ============================================================
 
-title                    : "[YOUR_NAME]"          # Displayed in browser tab
+title                    : "[Omendra Gangwar]"          # Displayed in browser tab
 description              : ""
-repository               : "YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME.github.io"
+repository               : "Anshu6070.github.io"
 google_scholar_stats_use_cdn : true
 
 # Google Analytics (optional — delete the line to disable)
@@ -20,7 +20,7 @@ baidu_site_verification  :
 #  Author / Sidebar Profile
 # ============================================================
 author:
-  name             : "[YOUR_NAME]"
+  name             : "[Omendra Gangwar]"
   avatar           : "images/avatar.jpg"          # Put your photo at images/avatar.jpg
   bio              : "Your one-line personal motto or research statement."
   location         : "City, Country"
